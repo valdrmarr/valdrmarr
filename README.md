@@ -34,9 +34,9 @@ Hi there 👋 I'm Vlad.<br>I Design and Develop things.
 ---
 
 Check some tools/apps I've made:
-- 📫 [https://mail-cat.cc](https://mail-cat.cc)
-- 🎈 [https://boardretro.party](https://boardretro.party)
-- 💬 [https://speakhub.live](https://speakhub.live)
+- 📫 
+- 🎈 
+- 💬 
 
 ---
 
